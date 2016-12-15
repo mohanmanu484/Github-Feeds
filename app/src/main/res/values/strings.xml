@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github feeds</string>
+    <string name="transition_designer_news_login">mohanmanu</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
